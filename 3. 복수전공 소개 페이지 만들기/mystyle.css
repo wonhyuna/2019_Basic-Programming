@@ -1,0 +1,63 @@
+﻿
+* { margin:0;
+    padding:0;  }
+	
+body{ background-color:#f2f0f0;
+      font-family:"맑은 고딕";
+      font-size:14px;
+      color:#444444;  }
+	  
+img { display:block; width:2000px; height:300px;}
+
+ul {list-style-type:none; }
+
+.clear { clear:both; }
+
+#menu {  width:1980px;
+         font-size:16px;
+	     font-weight:bold;
+         color:ivory;
+         background-color:#4e4c4d;	
+         padding:10px;
+         text-align:center;  }
+
+#menu1 {width:800px; 
+            font-size:15px;
+             font-weight:bold;
+            color:ivory;
+            background-color:black;
+           text-align:left; }
+		 
+#menu li { padding:0 15px;
+           display:inline;  }
+
+#menu1 li { padding:0 15px;
+           display:inline;  }
+
+#content{ width:750px;
+		  border:1px #cccccc hidden;
+		  padding:10px;
+		  margin:30px 15px;  }
+		  
+#content img { border:1px #cccccc solid;
+	           border-radius:20px;
+	           width:290px; height:290px;
+	           margin:20px 0;	 
+	           float:left;  }
+			   
+#content span { width: 450px;
+	            border:1px #cccccc hidden;
+	            line-height:230%;
+	            padding-top:40px;
+	            float:right;  }
+
+.copyright{  width:2000px; 
+			 background-color:#cccccc;
+             padding:10px;
+			 margin-top:150px;
+			 text-align: center; 
+			 float:center;  }
+h1 { color:black;}
+.item2 {width:200px; height:200px;
+		display:inline;
+		margin-left:70px;}
